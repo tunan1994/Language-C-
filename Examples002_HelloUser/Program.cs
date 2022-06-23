@@ -1,10 +1,4 @@
-﻿internal class Program
-{
-    private static void Main(string[] args)
-    {
-        Console.Write("ВВедите своё имя, ");
-        string usernama = Console.ReadLine();
-        Console.Write("Hi, ");
-        Console.Write(username);
-    }
-}
+﻿Console.Write("Введите своё имя, ");
+string username Console.ReadLine();
+Console.Write("Hi, ");
+Console.Write(username);
